@@ -1,0 +1,16 @@
+# Python & virtual environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Local secrets, database, browser profiles & runtime outputs
+.env
+data/
+logs/
+reports/
+resumes/
+*.db
+*.key
+*.log
